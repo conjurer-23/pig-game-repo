@@ -6,3 +6,7 @@ These are some changes
 ## Subheader
 
 Want to collab on this project
+
+## Local development
+
+1. Added index.html in project file.
