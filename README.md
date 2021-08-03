@@ -11,3 +11,4 @@ Want to collab on this project
 
 1. Added index.html in project file.
 2. Added style.css in project file.
+3. Added pig-game.js in project file.
