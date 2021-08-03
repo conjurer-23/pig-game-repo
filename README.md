@@ -1,6 +1,6 @@
 # pig-game-repo
 
-This is a just a normal game with some interactivity.
+This is a game with some interactivity and this game is made using vanilla JavaScript.
 These are some changes
 
 ## Subheader
