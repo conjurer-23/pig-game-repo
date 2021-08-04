@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+![DOM-Manipulation](https://user-images.githubusercontent.com/86053671/128195240-98384ec7-7fc9-49b3-b3a8-e2f33d2bbef6.png)
+📝 Your mission is to make a game using the DOM. you have the right to use:
 
-You can use the [editor on GitHub](https://github.com/conjurer-23/pig-game-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+✅ HTML ✅ CSS ✅ JavaScript
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+🎊 RULES 🎊: • The game has 2 players, each taking their turn. • On each turn, a player rolls a dice as many times as he wishes. Each result is added to its ROUND score. • BUT, if the player rolls the dice and rolls a 1, their ROUND score is lost. After that it's the next player's turn. • The player can choose 'Hold', which means their ROUND is added to the GLOBAL score. After that, it's the next player's turn. • The first player to reach 100 points on GLOBAL wins the game.
 
-### Markdown
+✅ Doing TDD is not compulsory.⚠️ ✅ The game must be available on a github-pages. 🚀 ✅ The images are available in the repo.📁
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+• Resources: ○ https://fonts.google.com/specimen/Lato
 
-```markdown
-Syntax highlighted code block
+🚧 TODO 🚧 • ♻️ Fork the repo • ↪️ Make a branch. • 🔀 Make a PR on the Original repo.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/conjurer-23/pig-game-repo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+🏁 THE PROJECT IS TO BE DELIVERED 🏁: GOOD LUCK...👋
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
