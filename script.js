@@ -14,6 +14,17 @@ const btnHold = document.querySelector(".btn--hold");
 
 let score, currentScore, activePlayer, playing;
 
+// Input player names
+const playerNames = function () {
+  var playerOneName = window.prompt("Enter player one's name: ");
+  console.log(playerOneName);
+  document.getElementById("name--0").textContent = playerOneName;
+  var playerTwoName = window.prompt("Enter player two's name: ");
+  console.log(playerTwoName);
+  document.getElementById("name--1").textContent = playerTwoName;
+}
+playerNames();
+
 // Starting conditions
 const init = function () {
   score = [0, 0];
@@ -41,6 +52,7 @@ const switchPlayer = function () {
   player0El.classList.toggle("player--active");
   player1El.classList.toggle("player--active");
 };
+
 
 // Rolling dice functionality
 btnRoll.addEventListener("click", function () {
